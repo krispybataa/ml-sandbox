@@ -1,6 +1,6 @@
 # Machine Learning Sandbox
 
-A comprehensive learning environment for exploring and practicing machine learning concepts, algorithms, and techniques.
+Personal sandbox for learning/reviewing machine learning concepts
 
 ## 🎯 Project Overview
 
@@ -52,7 +52,7 @@ This sandbox is designed to be a safe space for:
 ml-sandbox/
 ├── data/                   # Data files and datasets
 ├── notebooks/              # Jupyter notebooks for experiments
-│   ├── datasets/           # Dataset  s
+│   ├── datasets/           # Datasets
 ├── tests/                  # Unit tests
 ├── docs/                   # Documentation
 ├── requirements.txt        # Python dependencies
