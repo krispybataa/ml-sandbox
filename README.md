@@ -52,13 +52,9 @@ This sandbox is designed to be a safe space for:
 ml-sandbox/
 ├── data/                   # Data files and datasets
 ├── notebooks/              # Jupyter notebooks for experiments
-├── src/                    # Source code
-│   ├── preprocessing/      # Data preprocessing modules
-│   ├── models/            # Model implementations
-│   ├── evaluation/        # Model evaluation utilities
-│   └── utils/             # Helper functions
-├── tests/                 # Unit tests
-├── docs/                  # Documentation
+│   ├── datasets/           # Dataset  s
+├── tests/                  # Unit tests
+├── docs/                   # Documentation
 ├── requirements.txt        # Python dependencies
 └── README.md             # This file
 ```
