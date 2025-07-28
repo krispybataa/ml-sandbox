@@ -58,6 +58,7 @@ venv.bak/
 
 # Data files
 *.csv
+!notebooks/datasets/*.csv
 *.json
 *.xml
 *.xlsx
